@@ -1,0 +1,6 @@
+in\basha\service\DocumentService.class
+in\basha\controller\DocumentController.class
+in\basha\service\S3Service.class
+in\basha\repo\DocumentRepository.class
+in\basha\FromScratchsApplication.class
+in\basha\entity\Document.class
